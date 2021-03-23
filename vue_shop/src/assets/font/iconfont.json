@@ -1,0 +1,58 @@
+{
+  "id": "2430234",
+  "name": "vue_shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "这是第一个电商管理项目",
+  "glyphs": [
+    {
+      "icon_id": "20418547",
+      "name": "016-painter",
+      "font_class": "016-painter",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "20418548",
+      "name": "024-reading",
+      "font_class": "024-reading",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "20418556",
+      "name": "022-computer",
+      "font_class": "022-computer",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "20418557",
+      "name": "025-money",
+      "font_class": "025-money",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "20418563",
+      "name": "036-love",
+      "font_class": "036-love",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "834641",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "5524662",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
